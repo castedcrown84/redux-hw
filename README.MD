@@ -2,4 +2,14 @@
 
 ## Description
 
-This hw is a full stack web application using the MERN Stack to create an e-commerce website using React and Redux with Stripe payments. Users will be able to checkout when there is lost of connection and view their order history out of checkout. Users will also be able to sign up and login in to their account.
+This hw is a full stack application using the MERN Stack to create an e-commerce website using React and Redux with Stripe payments. Users will be able to checkout when there is lost of connection and view their order history out of checkout. Users will also be able to sign up and login in to their account.
+
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Question](#questions)
